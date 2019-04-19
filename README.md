@@ -1,9 +1,9 @@
 # Machine learning
 
-Exercises related to the machine learning classes proposed by Standford university on Coursera
+Exercises related to the machine learning course proposed by Standford university on Coursera
 
 ```
-If you are following the class, please abide by Coursera's code of honor. 
+If you are following the course, please abide by Coursera's code of honor. 
 Try to find the results for yourself instead of blindly copying the code.
 ```
 
